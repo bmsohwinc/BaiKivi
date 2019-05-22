@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaiKivi</string>
+    <string name="play_recorded">Play</string>
+    <string name="Stop_recording">Stop</string>
+    <string name="recording">Record</string>
+    <color name="yellow">#FFFF00</color>>
+
+</resources>
